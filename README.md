@@ -6,7 +6,7 @@
 2. Na raiz do projeto, execute:
 
 ```bash
-docker compose up --build
+docker compose up --build -d
 ```
 
 > O backend será exposto em: [http://localhost:3000](http://localhost:3000)
